@@ -1,4 +1,4 @@
-   *Code  IF and ELSE about two numbers is higher or lower 60*
+   * Code  IF and ELSE about two numbers is higher or lower 60
 
     IDENTIFICATION DIVISION.
     PROGRAM-ID. IFANDELSE.
