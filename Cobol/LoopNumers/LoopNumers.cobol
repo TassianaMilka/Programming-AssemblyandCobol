@@ -1,5 +1,5 @@
 
-      #Create one perform until ws-count > ws-limit the 0 - 10.
+      *Create one perform until ws-count > ws-limit the 0 - 10.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. LoopNumers.
