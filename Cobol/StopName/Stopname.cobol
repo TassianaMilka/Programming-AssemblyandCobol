@@ -1,4 +1,4 @@
-/*Create programming about two names Yan and Ayna with one describe no name  other stop!*/
+*Create programming about two names Yan and Ayna with one describe no name  other stop!*
 
 
 
