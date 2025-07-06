@@ -1,3 +1,5 @@
+#Code about print message Hello!
+
 .data
        #Print message 
     msg:.asciiz "Hello!"
