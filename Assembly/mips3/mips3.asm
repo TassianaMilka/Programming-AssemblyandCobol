@@ -1,5 +1,5 @@
 .data
-      idade: .vord 78 #type int
+      idade: .vord 78 #type 
 .text
 
      li $v0,1
