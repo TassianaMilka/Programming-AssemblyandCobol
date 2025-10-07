@@ -5,7 +5,7 @@ Assembly and Cobol
 
 Dowloads
 
-Assembly 
+Mips Assembly
 
 https://computerscience.missouristate.edu/mars-mips-simulator.htm
 
