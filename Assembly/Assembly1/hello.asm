@@ -1,7 +1,7 @@
 
 section .data
-     msg db 'Example in text',0xA, 0xD
-     tam equ $-msg
+     msg db 'Example in text!',0xA, 0xD
+     tam equ $- msg
 
 section .text
 
