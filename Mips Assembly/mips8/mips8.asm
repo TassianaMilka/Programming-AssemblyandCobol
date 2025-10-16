@@ -1,6 +1,8 @@
+
+ # Print  enter age 
 .data
         
-        saudacao:  .asciiz  "Informe sua idade" # Print  enter age 
+        saudacao:  .asciiz  "Informe sua idade" 
         saida:  .asciiz   "Sua idade:"
 
 .text
