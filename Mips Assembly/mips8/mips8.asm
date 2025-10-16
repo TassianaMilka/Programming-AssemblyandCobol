@@ -1,5 +1,5 @@
 
- # Print  enter age 
+ #Print  enter age 
 .data
         
         saudacao:  .asciiz  "Informe sua idade" 
