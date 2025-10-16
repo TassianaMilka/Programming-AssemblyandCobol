@@ -2,13 +2,13 @@
  #Print  enter age 
 .data
         
-        saudacao:  .asciiz  "Informe sua idade" 
-        saida:  .asciiz   "Sua idade:"
+        hello:  .asciiz  "Enter Age" 
+        helloprint:  .asciiz   "You:"
 
 .text
 
        li $v0,4
-       li $a0, saudacao
+       li $a0, hello
        syscall
 
 
@@ -18,7 +18,7 @@
       move $t0, $v0
 
        li $v0,4
-       li $a0, saida
+       li $a0, helloprint
        syscall
 
        li $v0,1
