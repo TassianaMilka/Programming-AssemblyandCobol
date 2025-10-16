@@ -2,7 +2,7 @@
  #Print  enter age 
 .data
         
-        hello:  .asciiz  "Enter Age" 
+        hello:  .asciiz  "Enter Age:" 
         helloprint:  .asciiz   "You:"
 
 .text
