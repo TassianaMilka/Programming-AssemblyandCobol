@@ -14,7 +14,7 @@
     DISPLAY "Two number".
     ACCEPT NUM2.
     ADD NUM1 TO NUM2 GIVING RESULT.
-    IF RESULTADO>60
+    IF RESULT>60
     DISPLAY "The result is (higher)"RESULT.
     ELSE 
     DISPLAY "The result is (lower)"RESULT.
