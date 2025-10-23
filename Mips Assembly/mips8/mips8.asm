@@ -1,5 +1,4 @@
-
- #Print  enter age 
+#Print  enter age 
 .data
       
         hello:  .asciiz  "Enter Age:" 
