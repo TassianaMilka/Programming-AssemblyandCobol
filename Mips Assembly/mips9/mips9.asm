@@ -1,3 +1,4 @@
+#Print about nickname 
 .data
 
        enter: .asciiz "Enter nickname"
