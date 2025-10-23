@@ -1,7 +1,7 @@
 .data
 
-       enter: .asciiz "Enter name"
-       next: .asciiz  "Olá, "
+       enter: .asciiz "Enter nickname"
+       next: .asciiz  "My nickname is: "
        name: .space 25
 
 .text
