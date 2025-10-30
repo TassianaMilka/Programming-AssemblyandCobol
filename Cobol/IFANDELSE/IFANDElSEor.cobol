@@ -1,5 +1,5 @@
   
-    *Create one code if and else with or result is = 60 or 80
+    *Create one code if and else with or result is = 60 or 80*
 
     IDENTIFICATION DIVISION.
     PROGRAM-ID. IFANDELSE.
