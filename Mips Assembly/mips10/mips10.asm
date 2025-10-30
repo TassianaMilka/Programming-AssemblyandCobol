@@ -1,3 +1,5 @@
+
+#Print about float
 .data
 
     msg: .asciiz "Enter one number:"
