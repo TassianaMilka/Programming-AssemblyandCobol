@@ -1,5 +1,5 @@
   
-
+   /*Create one code if and else with or result is =
 
     IDENTIFICATION DIVISION.
     PROGRAM-ID. IFANDELSE.
@@ -15,8 +15,8 @@
     ACCEPT NUM1.
     DISPLAY "Enter two number".
     ACCEPT NUM2.
-    ADD NUM1 TO NUM2 GIVING RESULT.
-    IF RESULT==60 or RESULT==80
+    SUBTRACT NUM1 FROM NUM2 GIVING RESULT.
+    IF RESULT=60 or RESULT=80
     DISPLAY "The result is true"RESULT.
     ELSE 
     DISPLAY "No is true"RESULT.
