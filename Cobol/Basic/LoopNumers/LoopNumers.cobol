@@ -13,7 +13,7 @@
                DISPLAY 'Numbers 0 - 10: ' WS-COUNT
                ADD 1 TO WS-COUNT
         
-           END-PERFORM.  
+           END-PERFORM
 
              DISPLAY "Loop stop."
 
