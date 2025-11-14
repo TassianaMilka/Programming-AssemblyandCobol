@@ -1,4 +1,4 @@
-# Programming-Assembly and Cobol  
+# Programming-Mips Assembly and Cobol  
 
 
 
